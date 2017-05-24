@@ -1,0 +1,151 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="whatsappbaru.com" resolutions="1x" timestamp="1495594958352">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="73291245" ref="untitled-4:index:untitled-2:untitled-3"/>
+    <file name="untitled-4.css" crc="3762264960" ref="untitled-4"/>
+    <file name="index.css" crc="88539803" ref="index"/>
+    <file name="untitled-2.css" crc="355672520" ref="untitled-2"/>
+    <file name="untitled-3.css" crc="4275974011" ref="untitled-3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:untitled-2:untitled-3:untitled-4"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:index:untitled-2:untitled-3:untitled-4"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:untitled-2:untitled-3:untitled-4"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:index:untitled-2:untitled-3:untitled-4"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index:untitled-2:untitled-3:untitled-4"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:index:untitled-2:untitled-3:untitled-4"/>
+  </folder>
+  <folder name="images">
+    <file name="18119881_1428801663838883_1953906604_o.jpg" crc="3856366432" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="statusws.jpg" crc="3860466926" seo="true" ref="phone>index:index:untitled-2:untitled-3:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="phonews.jpg" crc="14418209" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="edit.png" crc="3839787956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-icon-png-2.png" crc="4072469984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anak panah.jpg" crc="4188090998" seo="true" ref="index:untitled-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="bulat2.png" crc="68921814" seo="true" ref="index:untitled-2:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="bulat3.png" crc="30670868" seo="true" ref="index:untitled-2:untitled-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="phonews-crop-u812.jpg" crc="529363652" seo="true" ref="index:untitled-2:untitled-3:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="camera.jpg" crc="49841887" seo="true" ref="index:untitled-2:untitled-3:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="chat.jpg" crc="4059795577" seo="true" ref="index:untitled-2:untitled-3:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="setting-crop-u851.jpg" crc="154857575" seo="true" ref="index:untitled-2:untitled-3:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="statud putih.png" crc="285304596" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="statud.png" crc="139956903" seo="true" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="starred.png" crc="3790771544" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="desktop.png" crc="3926689102" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="acc.png" crc="4027164756" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="chatss.png" crc="3875946694" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="noti.png" crc="92368783" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="data.png" crc="265362224" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="ankpanh.png" crc="4199685185" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="video.png" crc="288349202" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="phon biru.png" crc="3805496010" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="tambah.png" crc="3787253842" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="camera biru.png" crc="4133954135" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="mic.png" crc="362793890" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="15949569" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="335518676" seo="true" mt="1493597738681" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3945739813" seo="true" mt="1495594918245" redirect="true"/>
+  <file name="untitled-2.html" crc="251426519" seo="true" mt="1495594918245" redirect="true"/>
+  <file name="untitled-3.html" crc="3931227883" seo="true" mt="1495594918245" redirect="true"/>
+  <file name="untitled-4.html" crc="4094628918" seo="true" mt="1495594918245" redirect="true"/>
+</manifest>
